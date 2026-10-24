@@ -1,10 +1,10 @@
 # Problem Statement
 
 ## 1. Title
-Smart Split & Group Wallet System
+# Smart Split & Group Wallet System
 
 ## 2. Domain
-FinTech / Personal Expense Management
+# FinTech / Personal Expense Management
 
 ## 3. Who is the user? (2-3 user types, with roles)
 1. **Group Admin**: Creates and manages expense groups, invites members, manages group wallet permissions, and approves balance settlements.
